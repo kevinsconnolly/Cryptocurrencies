@@ -1,4 +1,7 @@
 Challenge Overview
+
+
+
 We use unsupervised learning to analyze crytocurrency market trade data. I report which cryptocurrencies are trading on the market and cryptocurrencies classification for future groupings to povide potential investments. I followed the following process: Cleaned up data for maching learning, used unsupervised learning, used clustering algorithm to assist in investment advice and lastly used data visualization to share the findings.
 
 
